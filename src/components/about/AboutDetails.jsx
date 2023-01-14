@@ -39,7 +39,7 @@ const AboutDetails = () => {
           </div>
           <div>
             <h4>Age:</h4>
-            <span> 21</span>
+            <span> 22</span>
           </div>
         </Left>
         <Right>
