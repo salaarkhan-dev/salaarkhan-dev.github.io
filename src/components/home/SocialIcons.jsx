@@ -14,7 +14,7 @@ const SocialIcons = () => {
         <FaGithub size={25} />
       </a>
       <a
-        href="https://linkedin.com/in/salaar-khan1"
+        href="https://linkedin.com/in/salaarkhan-dev"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="LinkedIn"
