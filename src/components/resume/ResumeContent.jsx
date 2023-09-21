@@ -7,10 +7,10 @@ const ResumeContent = () => {
   return (
     <ResumeContentContainer>
       <Left>
-        <EducationContent />
+        <ExperienceContent />
       </Left>
       <Right>
-        <ExperienceContent />
+        <EducationContent />
       </Right>
     </ResumeContentContainer>
   );

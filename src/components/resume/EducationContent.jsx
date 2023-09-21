@@ -9,19 +9,19 @@ const EducationContent = () => {
       <span>Education</span>
       <ResumeCardList>
         <ResumeCard
-          title="Ethical Hacking"
-          info="Udemy / Youtube / 2015-2018"
-          description="Learned and Master Ethical Hacking by Self Learning"
-        />
-        <ResumeCard
-          title="Computer Science"
-          info="Government Post Graduate College / 2016-2018"
-          description="Intermediate in Computer Science"
-        />
-        <ResumeCard
           title="Bachelor Degree"
           info="Comsats University Islamabad / 2018-2022"
           description="4 Years Bachelor Degree in Computer Sciences"
+        />
+         <ResumeCard
+          title="Full Stack Web Development Certification"
+          info="Udemy 2019"
+          description="Learned and Master Full Stack Web Development using React, Node.js/Django, PostgreSQL and MongoDB"
+        />
+        <ResumeCard
+          title="Machine Learning Certification"
+          info="Udemy 2018"
+          description="Learned and Master Machine Learning using TensorFlow, Keras and Pytorch"
         />
       </ResumeCardList>
     </EducationContentContainer>

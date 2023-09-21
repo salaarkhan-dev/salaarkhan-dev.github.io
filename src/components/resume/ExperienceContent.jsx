@@ -8,21 +8,20 @@ const ExperienceContent = () => {
     <ExperienceContentContainer>
       <span>Experience</span>
       <ResumeCardList>
-        <ResumeCard
-          title="Neural Network Developer"
-          info={`Fiverr / 2019-${new Date().getFullYear()}`}
-          description="Completed final year project and many other neural network projects on fiverr using python"
-        />
-
-        <ResumeCard
-          title="Back-End Developer"
-          info={`Fiverr / 2019-${new Date().getFullYear()}`}
-          description="Completed final year project and many other projects on fiverr using Django and Express."
+      <ResumeCard
+          title="Full Stack Web Developer"
+          info={`12 Tech / 2023-Present`}
+          description="Full Stack Web Developer at 12 Tech using React, Angular, NestJS/Django, PostgreSQL, AWS."
         />
         <ResumeCard
-          title="Front-End Developer"
-          info={`Fiverr / 2020-${new Date().getFullYear()}`}
-          description="Completed final year project using ReactJS."
+          title="Full Stack Web Developer"
+          info={`Cybersoft Vantage (CSV) / 2022-2023`}
+          description="Team Lead / Full Stack Web Developer using React, Angular, NestJS/Django, PostgreSQL."
+        />
+        <ResumeCard
+          title="Machine Learning / Full Stack Web Developer"
+          info={`Fiverr / 2019-2022`}
+          description="FreeLance as Machine Learning Engineer and Full Stack Web Developer."
         />
       </ResumeCardList>
     </ExperienceContentContainer>

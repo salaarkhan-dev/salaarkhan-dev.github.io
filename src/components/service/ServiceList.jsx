@@ -1,7 +1,6 @@
 import React from "react";
-import { FaChalkboardTeacher, FaReact, FaRobot } from "react-icons/fa";
-import { SiDjango, SiExpress } from "react-icons/si";
-import { GiOnTarget } from "react-icons/gi";
+import { FaAws, FaChalkboardTeacher, FaFigma, FaReact } from "react-icons/fa";
+import { SiDjango, SiDocker, SiNestjs } from "react-icons/si";
 import styled from "styled-components";
 import ServiceCard from "./ServiceCard";
 
@@ -10,33 +9,33 @@ const ServiceList = () => {
     <ServiceListContainer>
       <ServiceCard
         Icon={<FaReact size={65} />}
-        title="React Js"
-        description="Develop web applications Frontend and Backend using React JS"
+        title="React / Next / GraphQL"
+        description="Develop Frontend applications using React, Next, Redux, GraphQL and TypeScript"
       />
       <ServiceCard
-        Icon={<SiExpress size={65} />}
-        title="Express Js"
-        description="Provide a complete backend RESTful API using Express JS"
+        Icon={<SiNestjs size={65} />}
+        title="Nest / Node / Prisma"
+        description="Develop restful APIs using Nest, Prisma, PostgreSQL and GraphQL"
       />
       <ServiceCard
         Icon={<SiDjango size={65} />}
         title="Django"
-        description="Provide a complete backend using Django/Django Restframework"
+        description="Develop backend applications using Django/Django Rest Framework"
       />
       <ServiceCard
-        Icon={<FaRobot size={65} />}
-        title="Neural Network"
-        description="Provide a complete solution of neural network problem using python"
+        Icon={<FaAws size={65} />}
+        title="AWS"
+        description="Develop backend applications using AWS services like EC2, S3, DynamoDB, CloudFront"
       />
       <ServiceCard
-        Icon={<GiOnTarget size={65} />}
-        title="Consultation"
-        description="Consult and help in your project completion"
+        Icon={<SiDocker size={65} />}
+        title="Docker"
+        description="Deploy backend applications using Docker"
       />
       <ServiceCard
-        Icon={<FaChalkboardTeacher size={65} />}
-        title="Tutoring"
-        description="I will be your instructor and teach you web development"
+        Icon={<FaFigma size={65} />}
+        title="Figma"
+        description="Design UI using Figma and Adobe XD"
       />
     </ServiceListContainer>
   );

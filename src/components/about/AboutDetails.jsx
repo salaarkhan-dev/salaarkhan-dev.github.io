@@ -1,36 +1,20 @@
 import React, { useState } from "react";
-import { useSelector } from "react-redux";
 import styled from "styled-components";
-import { selectorTheme } from "../../features/theme/themeSlice";
-import SnackBar from "my-react-snackbar";
 import AboutSocialIcons from "./AboutSocialIcons";
 import Button from "../Button";
 
 const AboutDetails = () => {
-  const [showInfo, setShowInfo] = useState(false);
-  const theme = useSelector(selectorTheme);
-  React.useEffect(() => {
-    const timeout = setTimeout(() => {
-      setShowInfo(false);
-    }, 5000);
 
-    return () => clearTimeout(timeout);
-  }, [showInfo]);
-
-  const handleClick = () => {
-    setShowInfo(true);
-  };
+  const calculateAge = () => {
+    const birthDate = new Date('2000-09-01');
+    const today = new Date();
+    const age = today.getFullYear() - birthDate.getFullYear();
+    const m = today.getMonth() - birthDate.getMonth();
+    return m < 0 || (m === 0 && today.getDate() < birthDate.getDate()) ? age - 1 : age;
+  }
 
   return (
     <AboutDetailsContainer>
-      <SnackBar
-        open={showInfo}
-        message={"Toggle theme for light/dark CV!"}
-        position="top-right"
-        type="info"
-        color="#00AB55 !important"
-        timeout={5000}
-      />
       <Top>
         <Left>
           <div>
@@ -39,7 +23,7 @@ const AboutDetails = () => {
           </div>
           <div>
             <h4>Age:</h4>
-            <span> 22</span>
+            <span>{calculateAge()}</span>
           </div>
         </Left>
         <Right>
@@ -51,12 +35,12 @@ const AboutDetails = () => {
           </div>
           <div>
             <h4>From:</h4>
-            <span> Attock City, Punjab, Pakistan</span>
+            <span> Pakistan</span>
           </div>
         </Right>
       </Top>
       <Bottom>
-        <a href={`assets/cv/cv-${theme}.pdf`} download onClick={handleClick}>
+        <a href={`assets/cv/SalaarKhan-CV.pdf`} download>
           <Button disabled={false}>Download CV</Button>
         </a>
         <span></span>
