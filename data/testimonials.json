@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Areeb Ali",
+    "role": "CEO, Old World Press",
+    "content": "Working with Salaar was like stepping back into a time when craftsmanship was valued above all. His attention to detail is simply remarkable.",
+    "date": "August 10, 2025"
+  },
+  {
+    "id": 2,
+    "name": "M. Kashif",
+    "role": "Editor, Vintage Gazette",
+    "content": "A true artisan of the digital age. Salaar's work transports you to another era while maintaining modern functionality.",
+    "date": "July 28, 2025"
+  },
+  {
+    "id": 3,
+    "name": "Usama Javed",
+    "role": "Publisher, Classic Times",
+    "content": "The way Salaar blends vintage aesthetics with modern web technologies is nothing short of magical. Our readers love the nostalgic feel.",
+    "date": "July 15, 2025"
+  }
+]

@@ -1,0 +1,111 @@
+Salaar Khan
+Pakistan
+
+salaarkhan.dev@gmail.com
+
++92 (304) 1540073
+
+in/salaarkhan-dev
+
+github.com/salaarkhan-dev
+
+SUMMARY
+Innovative Full Stack Web Developer with 5 years of experience enhancing web application performance and user engagement. Modernized
+React applications by 20% through advanced component updates and implemented Dockerized containers on AWS EC2, cutting load times by
+25%. Seeking opportunities to leverage expertise in React, Django, and CI/CD pipelines to drive scalable solutions and enrich user experiences.
+Core Competencies: React.js, Next.js, Django, Node.js, Nest.js, Tailwind CSS, Material UI, ShadCN, Prisma, PostgreSQL, AWS, Docker,
+Jenkins, CI/CD, SonarQube, Python, TypeScript, JavaScript
+Key Abilities: Problem Solving, Adaptability, Quick Learner, Organized, Team Collaboration, Agile Methodologies, Performance Optimization,
+API Integration
+
+EXPERIENCE
+Full Stack Web Developer
+12 Tech
+
+March 2023 - Present, Cranford, NJ
+
+• Modernized React Applications: Upgraded legacy class components to modern functional components using React Hooks, improving code
+maintainability and reducing bugs by 20%.
+• Optimized Application Performance: Implemented lazy loading, code splitting, and Dockerized containers on AWS EC2, reducing
+application load time by 25% and improving scalability.
+• Enhanced UI/UX with Tailwind CSS: Designed responsive, user-friendly interfaces using Tailwind CSS, ensuring consistent design across
+devices and boosting user engagement by 20%.
+• Integrated Django REST Framework: Developed secure backend services with Django REST Framework, including middleware, session
+management, and cookie-based authentication, improving API reliability by 15%.
+• Implemented CI/CD Pipelines: Automated deployment processes using Jenkins and Docker, reducing deployment time by 30% and ensuring
+seamless, reliable releases.
+• Third-Party API Integration: Integrated various third-party APIs to extend application functionality, enhancing user interaction and feature
+richness.
+
+Full Stack Web Developer
+Cybersoft Vantage
+
+March 2022 - February 2023, Islamabad, Pakistan
+
+• Engineered Scalable Single Page Applications (SPAs): Designed and developed high-performance SPAs using React, Redux, and Tailwind
+CSS, resulting in a 30% increase in user engagement and a 25% improvement in application performance.
+• Optimized Database Performance: Enhanced database efficiency by optimizing stored procedures and triggers in PostgreSQL, reducing
+query execution time by 40% and improving data integrity.
+• Integrated Third-Party APIs: Seamlessly integrated third-party APIs to expand application functionality, leading to a 20% improvement in
+user interaction and enhanced feature sets.
+• Developed RESTful APIs with Nest.js: Built scalable and secure RESTful APIs using Nest.js and Node.js, improving backend efficiency
+by 35% and enhancing application responsiveness.
+• Optimized Application Performance: Refined routing and navigation within applications, achieving a 15% improvement in performance and
+user satisfaction.
+• Implemented CI/CD Pipelines: Automated deployment processes using Jenkins and Docker, reducing deployment time by 25% and ensuring
+reliable application releases.
+
+Freelance Full Stack Developer
+Self-Employed
+
+February 2020 - February 2022, Remote
+
+• Designed and Developed Full Stack Web Applications: Built scalable, user-friendly web applications using React.js, Next.js, and Django,
+delivering tailored solutions for diverse client needs.
+• Engineered RESTful APIs: Developed high-performance RESTful APIs with Node.js, Express, and Django REST Framework, improving
+backend efficiency by 25%.
+• Created Responsive UI/UX Designs: Designed and implemented modern, responsive interfaces using Tailwind CSS and Material UI, boosting
+user engagement by 20%.
+
+
+
+.
+
+• Integrated Machine Learning Models: Leveraged Python, TensorFlow, and Keras to develop and integrate machine learning models for
+predictive analytics and data-driven insights.
+• Optimized Application Performance: Enhanced application performance by implementing lazy loading and code splitting, reducing load
+times by 30%.
+• Collaborated with Cross-Functional Teams: Partnered with clients to gather requirements, deliver solutions, and ensure timely project
+completion.
+
+EDUCATION
+Bachelor of Science in Computer Science
+COMSATS University Islamabad • 2022 • 3.45
+
+CERTIFICATIONS
+React & Next.js Certification
+Udemy • 2024
+• Certified in modern front-end development using React and Next.js to build scalable, high-performance web applications.
+• Proficient in component-based architecture, state management (React Hooks, Context API), and reusable UI design.
+• Skilled in Next.js for server-side rendering (SSR), static site generation (SSG), and optimizing web application performance.
+• Knowledgeable in integrating APIs, handling authentication, and implementing best practices for SEO and accessibility.
+• Demonstrates expertise in full-stack JavaScript development, ensuring seamless front-end and back-end interactions.
+
+SKILLS
+Frontend Development
+React.js, Next.js, Angular, Redux, Tailwind CSS, Material UI, ShadCN, JavaScript (ES6+), TypeScript, HTML5, CSS3, Web API Integration,
+Styled Components
+Backend Development
+Django, Django REST Framework, Nest.js, Node.js, Express.js, RESTful API Development, WebSocket Implementation, Authentication &
+Authorization (JWT, OAuth)
+Database Management
+PostgreSQL, Prisma, Database Design & Optimization, Stored Procedures, Triggers
+DevOps & Cloud Technologies
+AWS (EC2, ECS, S3, Lambda), Docker, Jenkins, CI/CD Pipelines, Vercel, Load Balancers, Cron Jobs
+Security & Testing
+Static Application Security Testing (SAST), SonarQube, Qualys API, Jest, React Testing Library
+Tools & Platforms
+Figma, Visual Studio Code (VS Code), Copilot, Postman, Git (GitHub, GitLab, Bitbucket), Jenkins, Docker, SonarQube
+Other Skills
+Microservices Architecture, Third-Party API Integration, Data Serialization, Performance Optimization (Lazy Loading, Code Splitting), Agile
+& Scrum Methodologies
