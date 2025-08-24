@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcases\u002F[id]","\u002Fpress\u002F[slug]","\u002Fpress\u002F[slug]\u002Fopengraph-image"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
