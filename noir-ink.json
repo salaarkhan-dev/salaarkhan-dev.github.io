@@ -1,0 +1,74 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Noir Ink",
+  "type": "dark",
+  "colors": {},
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#9A9083" }
+    },
+    {
+      "scope": ["string", "constant.character.escape"],
+      "settings": { "foreground": "#D8A15E" }
+    },
+    {
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": { "foreground": "#3F5D89", "fontStyle": "bold" }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": { "foreground": "#839073" }
+    },
+    {
+      "scope": ["variable", "meta.definition.variable"],
+      "settings": { "foreground": "#6E6B66" }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": { "foreground": "#BC6E48" }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "storage.type.class",
+        "support.class"
+      ],
+      "settings": { "foreground": "#5E7EAE" }
+    },
+    {
+      "scope": ["property", "support.type.property-name"],
+      "settings": { "foreground": "#8E734F" }
+    },
+    {
+      "scope": ["punctuation", "delimiter"],
+      "settings": { "foreground": "#7F7A73" }
+    },
+
+    { "scope": ["markup.inserted"], "settings": { "foreground": "#2FAA74" } },
+    { "scope": ["markup.deleted"], "settings": { "foreground": "#D24A3B" } },
+    { "scope": ["markup.changed"], "settings": { "foreground": "#CC9A1E" } },
+    {
+      "scope": [
+        "meta.diff.header",
+        "meta.diff.header.to-file",
+        "meta.diff.header.from-file"
+      ],
+      "settings": { "foreground": "#5E7EAE", "fontStyle": "bold" }
+    },
+    { "scope": ["meta.diff.range"], "settings": { "foreground": "#5E7EAE" } },
+    {
+      "scope": ["punctuation.definition.inserted"],
+      "settings": { "foreground": "#2FAA74" }
+    },
+    {
+      "scope": ["punctuation.definition.deleted"],
+      "settings": { "foreground": "#D24A3B" }
+    }
+  ]
+}
