@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
 
-Host: https://salaarkhan-dev.github.io
 Sitemap: https://salaarkhan-dev.github.io/sitemap.xml
