@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[6308,["/_next/static/chunks/26af3ogb7kwku.js","/_next/static/chunks/3yxrep8sbdj_8.js","/_next/static/chunks/1fc_v2o8r5qhc.js","/_next/static/chunks/31tduucw4tbeh.js","/_next/static/chunks/18sotvvmcs59d.js","/_next/static/chunks/1ohrs-zmi40p_.js","/_next/static/chunks/45b2-_-1ie8ap.js","/_next/static/chunks/19yf-eyoktr-s.js"],"Journal"]
+3:I[97367,["/_next/static/chunks/26af3ogb7kwku.js","/_next/static/chunks/3yxrep8sbdj_8.js","/_next/static/chunks/1fc_v2o8r5qhc.js","/_next/static/chunks/31tduucw4tbeh.js","/_next/static/chunks/18sotvvmcs59d.js","/_next/static/chunks/1ohrs-zmi40p_.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"shelf":{"slug":"postcards","label":"Postcards","total":6,"unit":"Cards in the album"}}],[["$","script","script-0",{"src":"/_next/static/chunks/45b2-_-1ie8ap.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/19yf-eyoktr-s.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9rZ_otJJJgOIj-1-HYdOq"}
+5:null
